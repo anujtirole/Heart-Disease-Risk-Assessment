@@ -54,7 +54,7 @@ pip install streamlit pandas numpy scikit-learn
 
 ### **Contributor**
 
-- [Adarsh Nashine](https://github.com/adarsh-n2003)
+- [Anuj Tirole](https://github.com/anujtirole)
 
 ### **Acknowledgments**
 
